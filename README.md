@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tumblr_1d5e343a628f791af0c84ae12eff98e4_20db4a95_500.gif" alt="Banner" />
+  <img src="assets/top_banner.gif" alt="Banner" />
 </p> 
 <p align="center">
   <a href="https://git.io/typing-svg">
