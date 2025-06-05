@@ -8,5 +8,5 @@
 </p>
 <p align="center">
     <!-- https://github.com/LelouchFR/skill-icons -->
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,git,github,md,yaml,regex,aws,snowflake,databricks,spark,numpy,pytorch,huggingface,wandb,overleaf,vscode&perline=9" alt="skill icons" title="skill icons">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,r,bash,git,github,md,yaml,regex,aws,snowflake,databricks,spark,streamlit,pytorch,huggingface,wandb,overleaf,vscode&perline=9" alt="skill icons" title="skill icons">
 </p>
